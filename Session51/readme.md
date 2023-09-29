@@ -1,18 +1,19 @@
-# Snake
+# Keras Dataset
 
-## Discription
------
-The project focuses on the artificial intelligence of the Snake game, can play game automatically.
-This game is written in python
+## Mnist
 
-## How to install
------
-``pip insatll -r requirement.txt  ``
+| Dataset       | Algorithm   | Accuracy |
+| -------       | ---         | ---      | 
+| Mnist         |    MLP      | 97.4%    | 
 
-## How to run
------
-1- Generate dataset with function_generate_dataset.py
+## Fashion Mnist
 
-2- Train dataset with neural network
+| Dataset       | Algorithm   | Accuracy |
+| -------       | ---         | ---      | 
+| Fashion_Mnist |    MLP      | 87.42%   | 
 
-3- play game 
+## Cifar 10
+
+| Dataset       | Algorithm   | Accuracy |
+| -------       | ---         | ---      | 
+| cifar 10      |    MLP      | 32.89%   | 
