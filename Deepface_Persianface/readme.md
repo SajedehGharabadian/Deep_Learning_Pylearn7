@@ -6,8 +6,8 @@ Read 1727 images from 30 different actors
 
 | Dataset       | Algorithm   | Accuracy | Loss      |
 | -------       | ---         | ---      | -----     |
-| Train Dataset |    MLP      | 86.87%   | 0.5812    |
-| Test Dataset  |    MLP      | 81.94%   | 0.7061    |
+| Train Dataset |    MLP      | 87.26%   | 0.5741    |
+| Test Dataset  |    MLP      | 83.33%   | 0.6646    |
 
 Plot Loss and Accuracy
 
