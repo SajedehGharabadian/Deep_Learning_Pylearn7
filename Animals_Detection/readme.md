@@ -2,17 +2,19 @@
 
 ◽The dataset consists of 5 categories of images.
 
-Class:
+Classes:
 Cat,
 Dog,
 Elephant,
 Giraffe,
-Panda,
+Panda
+
 
 | Dataset       | Loss        | Accuracy |
 | -------       | ---         | ---      |
 | Train         |    0.55     | 78.09%   | 
 | Validation    |    1.02     | 62.55%   | 
+
 
 Confusion Matrix:
 
