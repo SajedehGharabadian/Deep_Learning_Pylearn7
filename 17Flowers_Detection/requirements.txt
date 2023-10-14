@@ -1,6 +1,0 @@
-tensorflow
-cv2
-matplotlib
-numpy
-sklearn
-seaborn
