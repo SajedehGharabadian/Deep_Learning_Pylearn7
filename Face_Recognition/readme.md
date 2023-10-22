@@ -12,5 +12,4 @@
 
 
 ◽ Confusion Matrix:
-
 ![download (2)](https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/6c909114-7d61-4ca3-b2ce-f77646b694b4)
