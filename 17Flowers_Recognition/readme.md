@@ -2,7 +2,7 @@
 
 ◽The dataset consists of 17 categories of images.
 
-⚪ # CNN vs Transfer Learning
+⚪ CNN vs Transfer Learning
 
   model         | Dataset       | Loss        | Accuracy |
   ---------     | -------       | ---         | ---      |
