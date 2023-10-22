@@ -1,7 +1,5 @@
 tensorflow
-pandas
 numpy
 matplotlib
 cv2
-deepface
-glob
+scikit-learn
