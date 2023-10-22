@@ -4,6 +4,7 @@
 
 ◽ The database consists of 14 categories of images.
 
+
 | Dataset       | Loss        | Accuracy |
 | -------       | ---         | ---      |
 | Train         |    0.0421   | 99.27%   | 
