@@ -1,19 +1,15 @@
-## 17 Flowers Recognition
+## Akhund vs Human Recognition
 
-◽The dataset consists of 17 categories of images.
+◽ Using InceptionV3 model
 
-⚪ CNN vs Transfer Learning
-
-  model         | Dataset       | Loss        | Accuracy |
-  ---------     | -------       | ---         | ---      |
-   CNN          | Train         |    0.7969   | 72.54%   | 
-   CNN          | Validation    |    1.0793   | 64.47%   |
-   CNN          | Test          |    1.1880   | 62.35%   | 
-   MobileNetV2  | Train         |    0.0272   | 99.76%   | 
-   MobileNetV2  | Validation    |    0.2556   | 89.85%   |
-   MobileNetV2  | Test          |   0.2515    | 92.65%   | 
+◽ The database consists of 2 categories of images.
 
 
-⚪ Confusion Matrix:
+| Dataset       | Loss        | Accuracy |
+| -------       | ---         | ---      |
+| Train         |    0.0734   | 97.33%   | 
+| Validation    |    0.1670   | 93.48%   | 
 
-![image](https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/46105dfb-4fa8-4805-879f-fcc5c3993f9c)
+
+◽ Confusion Matrix:
+![image](https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/fe383589-f6ae-41d2-a799-7a457d58acb1)
