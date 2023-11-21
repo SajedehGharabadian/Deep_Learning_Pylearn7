@@ -13,7 +13,7 @@ run  ```easy_ocr.ipynb``` and train model.
 
 | Image Name    | handwritten.jpg   | license_plate.jpg | hand-written.JPG     | license_plate.jpg     |
 | -------       | ---               | ---               | -----                |  -----                |
-|   Image       |![handwritten](https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/c9cbb8a1-f992-4d33-a7ba-67c7a2e300a0){:height="36px" width="36px"}
+|   Image       |![handwritten](https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/c9cbb8a1-f992-4d33-a7ba-67c7a2e300a0)| width=100
         | 87.26%   | 0.5741    |
 |   Result      |    MLP      | 83.33%   | 0.6646    |
 
