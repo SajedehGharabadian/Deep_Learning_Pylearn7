@@ -1,6 +1,6 @@
 # Face Recognition
 
-◽ Using InceptionV3 model
+◽ Using InceptionV3 model.
 
 ◽ The database consists of 14 categories of images.
 
