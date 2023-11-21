@@ -51,5 +51,5 @@ run  ```easy_ocr.ipynb``` and train model.
 
 ✅result:
 
-<img src="hhttps://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/70482adb-bbaa-4e59-9c4d-4dfb18b04073" width="450" />
+<img src="https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/70482adb-bbaa-4e59-9c4d-4dfb18b04073" width="450" />
 
