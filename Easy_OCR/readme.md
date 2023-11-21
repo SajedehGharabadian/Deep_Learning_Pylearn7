@@ -15,11 +15,11 @@ run  ```easy_ocr.ipynb``` and train model.
 
 ✅Hand written image:
 
-<img src="https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/09efc312-bbba-4bd6-b169-f4af9b855db7" width="200" />
+<img src="https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/09efc312-bbba-4bd6-b169-f4af9b855db7" width="400" />
 
 ✅result: 
 
-![image](https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/197f86fa-9a21-4419-a7a7-eb3066d8ca12)
+<img src="https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/197f86fa-9a21-4419-a7a7-eb3066d8ca12" width="400" />
 
 
 ✅License plate image:
