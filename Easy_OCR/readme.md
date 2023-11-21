@@ -11,7 +11,7 @@ run  ```easy_ocr.ipynb``` and train model.
 
 ## results
 
-### Latin
+### Latin Example
 
 ✅Hand written image:
 
@@ -30,7 +30,7 @@ result:
 
 ![image](https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/c5b540de-bcc7-464a-a35d-8a57f3daa826)
 
-### Persian
+### Persian Example
 
 ✅Hand written image:
 
