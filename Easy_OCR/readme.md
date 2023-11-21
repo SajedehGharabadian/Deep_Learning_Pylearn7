@@ -15,8 +15,9 @@ run  ```easy_ocr.ipynb``` and train model.
 
 ✅Hand written image:
 
+![handwritten](https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/09efc312-bbba-4bd6-b169-f4af9b855db7)
 
-<img src="(https://github.com/favicon.ico](https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/09efc312-bbba-4bd6-b169-f4af9b855db7)" width="15">
+<img src="(https://github.com/SajedehGharabadian/Deep_Learning_Pylearn7/assets/76538787/09efc312-bbba-4bd6-b169-f4af9b855db7)" width="15">
 
 
 ✅result: 
