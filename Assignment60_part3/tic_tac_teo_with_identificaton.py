@@ -4,14 +4,15 @@ from termcolor import colored
 import cv2
 from class_face_identification import FaceIdentification
 from pyfiglet import Figlet
-
+import time
 
 
 video = cv2.VideoCapture(0) 
 face_test = FaceIdentification()
 face_test.preprocess()
+timeout = time.time() + 1
 
-while(True): 
+while time.time() < timeout: 
       
     # Capture the video frame q
     # by frame 
@@ -19,6 +20,8 @@ while(True):
 
     # Display the resulting frame 
     cv2.imshow('frame', frame) 
+    cv2.imshow('frame', frame) 
+    name_person = face_test.predict(frame,25)
 
     if ret == False:
         break
@@ -28,9 +31,6 @@ while(True):
 
 video.release() 
 cv2.destroyAllWindows() 
-
-cv2.imwrite('output/img.jpg', frame)
-name_person = face_test.predict('output/img.jpg',25)
 
 if name_person == 'Unknown':
 
